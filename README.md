@@ -4,9 +4,8 @@
   </a> 
 
 # Hola Mundo! 👋
+
 Bienvenidos al Portafolio de un estudiante de Administración de Sistemas Informáticos en Red (ASIR)... ¡Sí!¡Sistemas! Si creias que por ser de sistemas no ibas a estudiar programación, que equivocado estás, y en este repositorio te lo voy a demostrar😂
-
-
 
 Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts y configuraciones que estoy  desarrollando durante mi formación. Mi objetivo🚀: dominar el mundo🙃...de los servidores, adquiriendo las habilidades necesarias para administrar y mantener las redes informáticas seguras y eficientes.
 
@@ -26,12 +25,9 @@ Lenguajes y herramientas que utilizo :</h3>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -53,14 +49,11 @@ Lenguajes y herramientas que utilizo :</h3>
 </a>
  <a href="https://xml-copy-editor.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/> </a> 
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/> </a> 
- 
-
 
 <h2 align="center">Contacto:</h2>
 
-<p>Si tienes alguna pregunta o comentario, puedes contactarme en:
+<p align="center">Si tienes alguna pregunta o comentario, puedes contactarme en:
 </p>
-
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asirheras/)
