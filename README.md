@@ -49,7 +49,7 @@ Lenguajes y herramientas que utilizo :</h3>
 </a>
  <a href="https://xml-copy-editor.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/> </a> 
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/> </a> 
-
+</p>
 <h2 align="center">Contacto:</h2>
 
 <p align="center">Si tienes alguna pregunta o comentario, puedes contactarme en:
