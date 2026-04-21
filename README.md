@@ -18,17 +18,7 @@ Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts
 <h3 align="center">
 Lenguajes y herramientas que utilizo :</h3>
 
-<div align="center">
-  
-| Categoría | Tecnologías |
-| :---: | :--- |
-| **Desarrollo** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /> |
-| **Sistemas/Redes** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> |
-| **Bases de Datos** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> |
-| **Herramientas** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" /> <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/> |
-
-</div>
-<p> 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -59,7 +49,7 @@ Lenguajes y herramientas que utilizo :</h3>
   </a>
   <a href="https://xml-copy-editor.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/> </a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/> </a> 
-</p>
+</div>
 <h2 align="center">Contacto:</h2>
 
 <p align="center">Si tienes alguna pregunta o comentario, puedes contactarme en:
