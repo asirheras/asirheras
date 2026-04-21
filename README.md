@@ -5,12 +5,12 @@
 
 # Hola Mundo! 👋
 
-Bienvenidos al Portafolio de un estudiante de Administración de Sistemas Informáticos en Red (ASIR)... ¡Sí!¡Sistemas! Si creias que por ser de sistemas no ibas a estudiar programación, que equivocado estás, y en este repositorio te lo voy a demostrar😂
+Bienvenidos al Portafolio de un Administración de Sistemas Informáticos en Red (ASIR)... ¡Sí!¡Sistemas! Si creias que por ser de sistemas no ibas a estudiar programación, que equivocado estás, y en este repositorio te lo voy a demostrar😂
 
-Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts y configuraciones que estoy  desarrollando durante mi formación. Mi objetivo🚀: dominar el mundo🙃...de los servidores, adquiriendo las habilidades necesarias para administrar y mantener las redes informáticas seguras y eficientes.
+Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts y configuraciones que estoy  desarrollando. Mi objetivo🚀: dominar el mundo🙃...de los servidores, adquiriendo las habilidades necesarias para administrar y mantener las redes informáticas seguras y eficientes.
 
-- 📍  Actualmente, estoy ubicado en Córdoba.
-- 🎓 Estudiante de IES Gran Capitán.
+- 📍 Actualmente, estoy ubicado en Córdoba.
+- 🎓 Soy Administrador de Sistemas Informáticos en Red (ASIR).
 - 🌱 Siempre aprendiendo algo nuevo: Este verano toca MongoDB y Python.
 - 👷🏼‍♂️ Profundizando en **DevOps** y **Seguridad Informática**.
 <!-- - 💼 Buscando oportunidades de colaboración en proyectos interesantes. -->
@@ -35,19 +35,19 @@ Lenguajes y herramientas que utilizo :</h3>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/yN3TN8Fm/mysqlworbench.png" width="40" height="40" alt="Workbench Mysql" />
-</a>
-<a href="https://www.heidisql.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/prsjZwfV/480px-Heidi-SQL-logo-image.png" width="40" height="40" alt="HeidiSQL" />
-</a>
- <a href="https://xml-copy-editor.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/yN3TN8Fm/mysqlworbench.png" width="40" height="40" alt="Workbench Mysql" />
+  </a>
+  <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/prsjZwfV/480px-Heidi-SQL-logo-image.png" width="40" height="40" alt="HeidiSQL" />
+  </a>
+  <a href="https://xml-copy-editor.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/> </a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/> </a> 
 </p>
 <h2 align="center">Contacto:</h2>
