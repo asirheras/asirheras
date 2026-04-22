@@ -17,29 +17,14 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
 
 ----------
 
-<h3 align="center">Lenguajes de Programación</h3>
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" title="PHP"/>
-</div>
-
-<h3 align="center">Sistemas y DevOps</h3>
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" width="40" height="40" title="Cisco Packet Tracer"/>
-</div>
-
-<h3 align="center">Bases de Datos</h3>
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" title="MariaDB"/>
-</div>
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40"/>
+</p>
 
 <!-- <h2 align="center">Tecnologias, lenguajes y herrmientas con las que trabajo</h2>
 <h3 align="center">Lenguajes de Programación</h3>
