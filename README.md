@@ -13,93 +13,51 @@ Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts
 - 🎓 Soy Administrador de Sistemas Informáticos en Red (ASIR).
 - 🌱 Siempre aprendiendo algo nuevo: Este verano toca MongoDB y Python.
 - 👷🏼‍♂️ Profundizando en **DevOps** y **Seguridad Informática**.
-<!-- - 💼 Buscando oportunidades de colaboración en proyectos interesantes. -->
-  
-<h3 align="center">
-Lenguajes y herramientas que utilizo :</h3>
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" /></td>
-  <td> <img src="https://i.postimg.cc/yN3TN8Fm/mysqlworbench.png" width="40" height="40" alt="Workbench Mysql" /></td>
+- 💼 Buscando oportunidades de colaboración en proyectos interesantes.
 
-  </tr>
-</table>
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-<img src="https://i.postimg.cc/yN3TN8Fm/mysqlworbench.png" width="40" height="40" alt="Workbench Mysql" />
-<img src="https://i.postimg.cc/prsjZwfV/480px-Heidi-SQL-logo-image.png" width="40" height="40" alt="HeidiSQL" />
-<img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" alt="XmlCopyEditor" width="40" height="40"/>
-<img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" alt="CiscoPacketTracer" width="40" height="40"/>
-</div>
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+----------
+
+<h2 align="center">Tecnologias, lenguajes y herrmientas con las que trabajo</h2>
+<h3 align="center">Lenguajes de Programación</h3>
 <table align="center" border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" title="PHP"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" title="Visual Studio Code"alt="Visual Studio Code" /></td>
+    <td style="border: none;"><img src="https://i.postimg.cc/3NDcsQB1/xmlcopyeditor.jpg" width="36" height="36" title="XML Copy Editor"alt="XML Copy Editor"/></td>
+  </tr>
   </tr>
 </table>
-<h3 align="center">Lenguajes de Programación</h3>
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" title="PHP"/></td>
-  </tr>
-</table>
-
 <h3 align="center">Sistemas y DevOps</h3>
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/></td>
+<table align="center" border="0">
+  <tr>"
+  <td style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png)" width="40" height="40" title="Windows"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></td>
+    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/></td>
+     <td style="border: none;"><img src="https://es.wikipedia.org/wiki/Archivo:PowerShell_Core_6.0_icon.png)" width="40" height="40" title="Windows PowerShell"/></td>
+    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/></td>
+    <td style="border: none;"><img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" width="40" height="40" title="Cisco Packet Tracer"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/></td>
   </tr>
 </table>
 
-<h3 align="center">Bases de Datos</h3>
-<table align="center">
+<h3 align="center">Bases de Datos y Herramientas</h3>
+<table align="center" border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" title="MariaDB"/></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></td>
+    <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" title="MariaDB"/></td>
+    <td <td style="border: none;"><img src="https://i.postimg.cc/yN3TN8Fm/mysqlworbench.png" width="40" height="40"  title="Workbench MySQL" alt="Workbench Mysql"/></td>
+      <td style="border: none;"><img src="https://i.postimg.cc/prsjZwfV/480px-Heidi-SQL-logo-image.png" width="40" height="40" title="HeidiSQL" alt="HeidiSQL" /></td>
+  </tr>
   </tr>
 </table>
+
+----------
+
+
 <h2 align="center">Contacto:</h2>
 
 <p align="center">Si tienes alguna pregunta o comentario, puedes contactarme en:
