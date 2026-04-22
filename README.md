@@ -5,13 +5,13 @@
 
 # Hola Mundo! 👋
 
-Bienvenidos al Portafolio de un Administración de Sistemas Informáticos en Red (ASIR)... ¡Sí!¡Sistemas! Si creias que por ser de sistemas no ibas a estudiar programación, que equivocado estás, y en este repositorio te lo voy a demostrar😂
+Bienvenidos al Portafolio de un **A**dministrador de **S**istemas **I**nformáticos en **R**ed (**ASIR**)... ¡Sí!¡Sistemas! Si creias que por ser de sistemas no ibas a estudiar programación, que equivocado estás, y en este repositorio te lo voy a demostrar😂
 
-Me llamo Andrés Heras, y en este repositorio compartiré los proyectos, scripts y configuraciones que estoy  desarrollando. Mi objetivo🚀: dominar el mundo🙃...de los servidores, adquiriendo las habilidades necesarias para administrar y mantener las redes informáticas seguras y eficientes.
+Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proyectos, scripts y configuraciones que estoy  desarrollando. Mi objetivo🚀: dominar el mundo🙃...de los servidores, adquiriendo las habilidades necesarias para administrar y mantener las redes informáticas seguras y eficientes.
 
 - 📍 Actualmente, estoy ubicado en Córdoba.
 - 🎓 Soy Administrador de Sistemas Informáticos en Red (ASIR).
-- 🌱 Siempre aprendiendo algo nuevo: Este verano toca MongoDB y Python.
+- 🌱 Siempre aprendiendo algo nuevo: Este verano toca MongoDB.
 - 👷🏼‍♂️ Profundizando en **DevOps** y **Seguridad Informática**.
 - 💼 Buscando oportunidades de colaboración en proyectos interesantes.
 
