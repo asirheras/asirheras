@@ -19,7 +19,7 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
 
 <h2 align="center">Tecnologias, lenguajes y herrmientas con las que trabajo</h2>
 <h3 align="center">Lenguajes de Programación</h3>
-<table align="center" border="0">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/></td>
@@ -32,7 +32,7 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
   </tr>
 </table>
 <h3 align="center">Sistemas y DevOps</h3>
-<table align="center" border="0">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>"
   <td style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png)" width="40" height="40" title="Windows"/></td>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></td>
@@ -45,7 +45,7 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
 </table>
 
 <h3 align="center">Bases de Datos y Herramientas</h3>
-<table align="center" border="0">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></td>
     <td style="border: none;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" title="MariaDB"/></td>
@@ -56,7 +56,6 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
 </table>
 
 ----------
-
 
 <h2 align="center">Contacto:</h2>
 
