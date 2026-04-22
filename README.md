@@ -34,10 +34,10 @@ Me llamo Andrés Heras, y en mi Github compartiré los repositorios de los proye
 <h3 align="center">Sistemas y DevOps</h3>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>"
-  <td style="border: none; padding: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png)" width="40" height="40" title="Windows"/></td>
+  <td style="border: none; padding: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="40" height="40" title="Windows"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" width="40" height="40" title="Windows PowerShell"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></td>
     <td style="border: none; padding: 5px;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/></td>
-     <td style="border: none; padding: 5px;"><img src="https://es.wikipedia.org/wiki/Archivo:PowerShell_Core_6.0_icon.png)" width="40" height="40" title="Windows PowerShell"/></td>
     <td style="border: none; padding: 5px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/></td>
     <td style="border: none; padding: 5px;"><img src="https://i.postimg.cc/sxwbP4Td/Packet-Tracer.png" width="40" height="40" title="Cisco Packet Tracer"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/></td>
